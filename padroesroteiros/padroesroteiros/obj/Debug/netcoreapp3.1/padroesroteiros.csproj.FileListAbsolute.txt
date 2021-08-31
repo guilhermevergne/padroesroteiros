@@ -1,0 +1,13 @@
+C:\Users\Guilherme\source\repos\padroesroteiros\padroesroteiros\bin\Debug\netcoreapp3.1\padroesroteiros.exe
+C:\Users\Guilherme\source\repos\padroesroteiros\padroesroteiros\bin\Debug\netcoreapp3.1\padroesroteiros.deps.json
+C:\Users\Guilherme\source\repos\padroesroteiros\padroesroteiros\bin\Debug\netcoreapp3.1\padroesroteiros.runtimeconfig.json
+C:\Users\Guilherme\source\repos\padroesroteiros\padroesroteiros\bin\Debug\netcoreapp3.1\padroesroteiros.runtimeconfig.dev.json
+C:\Users\Guilherme\source\repos\padroesroteiros\padroesroteiros\bin\Debug\netcoreapp3.1\padroesroteiros.dll
+C:\Users\Guilherme\source\repos\padroesroteiros\padroesroteiros\bin\Debug\netcoreapp3.1\padroesroteiros.pdb
+C:\Users\Guilherme\source\repos\padroesroteiros\padroesroteiros\obj\Debug\netcoreapp3.1\padroesroteiros.csprojAssemblyReference.cache
+C:\Users\Guilherme\source\repos\padroesroteiros\padroesroteiros\obj\Debug\netcoreapp3.1\padroesroteiros.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\padroesroteiros\padroesroteiros\obj\Debug\netcoreapp3.1\padroesroteiros.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\padroesroteiros\padroesroteiros\obj\Debug\netcoreapp3.1\padroesroteiros.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\padroesroteiros\padroesroteiros\obj\Debug\netcoreapp3.1\padroesroteiros.dll
+C:\Users\Guilherme\source\repos\padroesroteiros\padroesroteiros\obj\Debug\netcoreapp3.1\padroesroteiros.pdb
+C:\Users\Guilherme\source\repos\padroesroteiros\padroesroteiros\obj\Debug\netcoreapp3.1\padroesroteiros.genruntimeconfig.cache
